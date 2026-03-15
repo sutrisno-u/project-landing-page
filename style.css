@@ -9,7 +9,7 @@ body {
 }
 
 .header h2 {
-    color: #F9FAF8;
+    color: #F9FAF8 !important;
 }
 
 header {
