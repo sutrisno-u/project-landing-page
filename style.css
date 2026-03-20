@@ -9,7 +9,7 @@ body {
 }
 
 .header h2 {
-    color: #F9FAF8 !important;
+    color: #F9FAF8;
 }
 
 header {
@@ -52,6 +52,7 @@ ul {
     font-weight: 900;
     padding: 100px 15%;
     gap: 50px;
+    background-color: #1F2937;
 }
 
 p {
