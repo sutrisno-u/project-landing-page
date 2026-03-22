@@ -10,8 +10,9 @@ This project is a part of **The Odin Project** curriculum. The main focus of thi
 *   **Flexbox Layout**: Precise element positioning using modern CSS Flexbox.
 
 ## 📸 Preview
-![Project-lp](https://github.com)
-
+| Desktop Version |
+![Project-lp](https://github.com/user-attachments/assets/526230e6-440b-4fff-9332-9098c925db6a)
+![Project-lp1](https://github.com/user-attachments/assets/70f7ca9d-39c8-46a4-a9a3-9e90a4ae6d0c)
 ---
 
 ## 🛠️ Tech Stack
@@ -25,7 +26,5 @@ During this project, I deepened my understanding of how to align and distribute 
 *   Course: [The Odin Project](https://www.theodinproject.com)
 *   Project: Foundations - Landing Page
 
-| Desktop Version |
-![Project-lp](https://github.com/user-attachments/assets/526230e6-440b-4fff-9332-9098c925db6a)
-![Project-lp1](https://github.com/user-attachments/assets/70f7ca9d-39c8-46a4-a9a3-9e90a4ae6d0c)
+
 
